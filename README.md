@@ -1,5 +1,5 @@
 # bailanAE
-我用摆烂的java代码摆烂了你的AE作业
+我用摆烂的javafx代码摆烂了你的AE作业
 
 # How does it work?
 摆烂。
